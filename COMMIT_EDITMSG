@@ -1,0 +1,5 @@
+Fix: Resolved "fname" parameter error in report generation by switching to a built-in font and simplifying text cleaning.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 6167b993-aa8c-43c2-b364-81709b0830e2
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a4fc0098-4a54-41bc-922c-77353b550df6/fd48d131-8df4-4975-a139-977fc661548a.jpg
