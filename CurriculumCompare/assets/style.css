@@ -1,0 +1,23 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.upload-section {
+    padding: 2rem;
+    border-radius: 0.5rem;
+    border: 2px dashed #0066cc;
+    margin: 1rem 0;
+}
+
+.results-section {
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+}
+
+.stButton button {
+    width: 100%;
+    margin-top: 1rem;
+}
